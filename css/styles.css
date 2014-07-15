@@ -24,6 +24,11 @@ div#new-tasks {
   max-width: 40%;
 }
 
+div#new-lists ul span:hover {
+  cursor: pointer;
+  color: #0088cc;
+}
+
 
 
 
